@@ -1,6 +1,7 @@
 
 # 33 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 
+# space = O(1) | time = O(logn)
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         
