@@ -15,6 +15,7 @@
 | ------------- | ------------- | ---------------- | ------------ |  ------------- | 
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `easy` | [Link](leetcode/two_sum.py) | ✅ | 
 | 11 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | `medium` | [Link](leetcode/container_with_most_water.py) | ✅ | 
+| 15 | [Three Sum](https://leetcode.com/problems/3sum/) | `medium` | [Link](leetcode/three_sum.py) | ✅ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `easy` | [Link](leetcode/maximum_subarray.py) | ✅ | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `easy` | [Link](leetcode/best_time_to_buy_and_sell_stock.py) | ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
