@@ -13,7 +13,8 @@
 
 | #             | Problem       | Difficulty       | Solution       | Status       | 
 | ------------- | ------------- | ---------------- | ------------ |  ------------- | 
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `easy` | [Link](leetcode/two_sum.py) | ✅ | 
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | `easy` | [Link](leetcode/two_sum.py) | ✅ |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `medium` | [Link](leetcode/add_two_numbers.py) | ✅ | 
 | 11 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | `medium` | [Link](leetcode/container_with_most_water.py) | ✅ | 
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | `medium` | [Link](leetcode/three_sum.py) | ✅ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `medium` | [Link](leetcode/search_in_rotated_sorted_array.py) | ✅ |
