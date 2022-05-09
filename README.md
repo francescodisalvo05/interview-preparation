@@ -30,4 +30,5 @@
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | `medium` | [Link](leetcode/basic_calculator_ii.py) | ✅ | 
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `easy` | [Link](leetcode/implement_queue_using_stacks.py) | ✅ | 
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `medium` | [Link](leetcode/product_of_array_except_self.py) | ✅ | 
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `easy` | [Link](leetcode/binary_search.py) | ✅ |
