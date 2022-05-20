@@ -28,6 +28,7 @@
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `medium` | [Link](leetcode/find_minimum_in_rotated_sorted_array.py) | ✅ | 
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `easy` | [Link](leetcode/min_stack.py) | ✅ | 
+| 169 | [Min Stack](https://leetcode.com/problems/majority-element//) | `easy` | [Link](leetcode/majority_element/.py) | ✅ | 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `easy` | [Link](leetcode/reverse_linked_list.py) | ✅ | 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `easy` | [Link](leetcode/contains_duplicate.py) | ✅ | 
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | `medium` | [Link](leetcode/basic_calculator_ii.py) | ✅ | 
