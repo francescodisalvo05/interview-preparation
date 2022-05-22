@@ -40,3 +40,4 @@
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `easy` | [Link](leetcode/longest_palindrome.py) | ✅ | 
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `easy` | [Link](leetcode/diameter_of_binary_tree.py.py) | ✅ | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `easy` | [Link](leetcode/binary_search.py) | ✅ |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `easy` | [Link](leetcode/middle_of_the_linked_list.py) | ✅ |
