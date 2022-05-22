@@ -25,6 +25,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `easy` | [Link](leetcode/maximum_subarray.py) | ✅ | 
 | 67 | [Add binary](https://leetcode.com/problems/add-binary/) | `easy` | [Link](leetcode/add_binary.py) | ✅ | 
 | 70 | [Climb Stairs](https://leetcode.com/problems/climb-stairs/) | `easy` | [Link](leetcode/clime_stairs.py) | ✅ | 
+| 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `easy` | [Link](leetcode/maximum_depth_of_a_binary_tree.py) | ✅ | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `easy` | [Link](leetcode/best_time_to_buy_and_sell_stock.py) | ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `medium` | [Link](leetcode/find_minimum_in_rotated_sorted_array.py) | ✅ | 
