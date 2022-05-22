@@ -38,4 +38,5 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `easy` | [Link](leetcode/ransom_note.py) | ✅ | 
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `easy` | [Link](leetcode/longest_palindrome.py) | ✅ | 
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `easy` | [Link](leetcode/diameter_of_binary_tree.py.py) | ✅ | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `easy` | [Link](leetcode/binary_search.py) | ✅ |
