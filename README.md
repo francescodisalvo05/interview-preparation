@@ -18,6 +18,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `medium` | [Link](leetcode/add_two_numbers.py) | ✅ | 
 | 11 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | `medium` | [Link](leetcode/container_with_most_water.py) | ✅ | 
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `easy` | [Link](leetcode/integer_to_roman.py) | ✅ | 
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `easy` | [Link](leetcode/roman_to_integer.py) | ✅ | 
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | `medium` | [Link](leetcode/three_sum.py) | ✅ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `medium` | [Link](leetcode/remove-nth-node-from-end-of-list.py) | ✅ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `medium` | [Link](leetcode/search_in_rotated_sorted_array.py) | ✅ |
@@ -30,7 +31,7 @@
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `medium` | [Link](leetcode/find_minimum_in_rotated_sorted_array.py) | ✅ | 
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `easy` | [Link](leetcode/min_stack.py) | ✅ | 
-| 169 | [Min Stack](https://leetcode.com/problems/majority-element//) | `easy` | [Link](leetcode/majority_element/.py) | ✅ | 
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element//) | `easy` | [Link](leetcode/majority_element/.py) | ✅ | 
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `easy` | [Link](leetcode/reverse_linked_list.py) | ✅ | 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `easy` | [Link](leetcode/contains_duplicate.py) | ✅ | 
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | `medium` | [Link](leetcode/basic_calculator_ii.py) | ✅ | 
