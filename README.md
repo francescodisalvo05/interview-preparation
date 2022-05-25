@@ -26,6 +26,7 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `easy` | [Link](leetcode/maximum_subarray.py) | ✅ | 
 | 67 | [Add binary](https://leetcode.com/problems/add-binary/) | `easy` | [Link](leetcode/add_binary.py) | ✅ | 
 | 70 | [Climb Stairs](https://leetcode.com/problems/climb-stairs/) | `easy` | [Link](leetcode/clime_stairs.py) | ✅ | 
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | `easy` | [Link](leetcode/same_tree.py) | ✅ | 
 | 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `easy` | [Link](leetcode/maximum_depth_of_a_binary_tree.py) | ✅ | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `easy` | [Link](leetcode/best_time_to_buy_and_sell_stock.py) | ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
@@ -38,8 +39,10 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `easy` | [Link](leetcode/implement_queue_using_stacks.py) | ✅ | 
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `medium` | [Link](leetcode/product_of_array_except_self.py) | ✅ | 
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
+| 228 | [Counting bits](https://leetcode.com/problems/counting-bits) | `easy` | [Link](leetcode/counting_bits.py) | ✅ | 
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `easy` | [Link](leetcode/ransom_note.py) | ✅ | 
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `easy` | [Link](leetcode/longest_palindrome.py) | ✅ | 
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `easy` | [Link](leetcode/diameter_of_binary_tree.py.py) | ✅ | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `easy` | [Link](leetcode/binary_search.py) | ✅ |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | `easy` | [Link](leetcode/backspace_string_compare.py) | ✅ |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `easy` | [Link](leetcode/middle_of_the_linked_list.py) | ✅ |
