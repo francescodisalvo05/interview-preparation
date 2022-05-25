@@ -37,9 +37,11 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `easy` | [Link](leetcode/contains_duplicate.py) | ✅ | 
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | `medium` | [Link](leetcode/basic_calculator_ii.py) | ✅ | 
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | `easy` | [Link](leetcode/implement_queue_using_stacks.py) | ✅ | 
+| 234 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) | `easy` | [Link](leetcode/palindrome_linked_list.py) | ✅ | 
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | `medium` | [Link](leetcode/product_of_array_except_self.py) | ✅ | 
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
 | 228 | [Counting bits](https://leetcode.com/problems/counting-bits) | `easy` | [Link](leetcode/counting_bits.py) | ✅ | 
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
+| 283 | [Moving Zeroes](https://leetcode.com/problems/moving-zeroes/) | `easy` | [Link](leetcode/moving_zeroes.py) | ✅ | 
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `easy` | [Link](leetcode/ransom_note.py) | ✅ | 
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `easy` | [Link](leetcode/longest_palindrome.py) | ✅ | 
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | `easy` | [Link](leetcode/diameter_of_binary_tree.py.py) | ✅ | 
