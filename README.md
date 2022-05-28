@@ -42,6 +42,8 @@
 | 228 | [Counting bits](https://leetcode.com/problems/counting-bits) | `easy` | [Link](leetcode/counting_bits.py) | ✅ | 
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | `easy` | [Link](leetcode/first_bad_version.py) | ✅ | 
 | 283 | [Moving Zeroes](https://leetcode.com/problems/moving-zeroes/) | `easy` | [Link](leetcode/moving_zeroes.py) | ✅ | 
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | `medium` | [Link](leetcode/longest_increasing_subsequence.py) | ✅ | 
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | `medium` | [Link](leetcode/coin_change.py) | ✅ | 
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | `medium` | [Link](leetcode/sum_of_two_integers.py) | ✅ | 
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | `easy` | [Link](leetcode/ransom_note.py) | ✅ | 
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | `easy` | [Link](leetcode/longest_palindrome.py) | ✅ | 
