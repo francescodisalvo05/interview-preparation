@@ -30,6 +30,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | `easy` | [Link](leetcode/same_tree.py) | ✅ | 
 | 104 | [Maximum Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `easy` | [Link](leetcode/maximum_depth_of_a_binary_tree.py) | ✅ | 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `easy` | [Link](leetcode/best_time_to_buy_and_sell_stock.py) | ✅ |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | `easy` | [Link](leetcode/linked_list_cycle.py) | ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | `medium` | [Link](leetcode/maximum_product_subarray.py) | ✅ | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | `medium` | [Link](leetcode/find_minimum_in_rotated_sorted_array.py) | ✅ | 
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `easy` | [Link](leetcode/min_stack.py) | ✅ | 
