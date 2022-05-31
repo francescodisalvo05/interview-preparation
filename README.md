@@ -21,6 +21,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `easy` | [Link](leetcode/roman_to_integer.py) | ✅ | 
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | `medium` | [Link](leetcode/three_sum.py) | ✅ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | `medium` | [Link](leetcode/remove-nth-node-from-end-of-list.py) | ✅ |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | `easy` | [Link](leetcode/merge_two_sorted_lists.py) | ✅ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | `medium` | [Link](leetcode/search_in_rotated_sorted_array.py) | ✅ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | `medium` | [Link](leetcode/group_anagrams.py) | ✅ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | `easy` | [Link](leetcode/maximum_subarray.py) | ✅ | 
